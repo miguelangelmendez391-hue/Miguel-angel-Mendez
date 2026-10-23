@@ -41,12 +41,6 @@ Joven comprometido con los objetivos que me marco y apasionado por la tecnologí
 
 **Ofimática:** Excel (tablas, gráficas, datos) · Access (formularios)
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 💼 Experiencia
 
@@ -55,11 +49,7 @@ Joven comprometido con los objetivos que me marco y apasionado por la tecnologí
 
 ## 🧪 Proyectos del curso (Servicios en Red, CCNA)
 
-Prácticas con Cisco Packet Tracer:
 
-- **Ejercicio 2: DHCP** (sep – oct 2025)
-- **Proyecto de servicios en red** (sep 2025)
-- **Práctica de enrutamiento OSPF** (oct 2025)
 
 ## 🌍 Idiomas
 
