@@ -1,4 +1,4 @@
-# Miguel-angel-Mendez[README.md](https://github.com/user-attachments/files/33869490/README.md)
+# Miguel-angel-Mendez
 # Hola, soy Miguel Ángel Méndez Medina 👋
 
 **Estudiante de ASIR · Sistemas, Redes y Ciberseguridad**
